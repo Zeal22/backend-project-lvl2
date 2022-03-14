@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "type": "module",
   "bin": {
-    "gendiff": "bin/gendiff.js"
+    "gendiff1": "bin/gendiff.js",
+    "test1": "bin/test.js"
   },
   "description": "[![Actions Status](https://github.com/Zeal22/backend-project-lvl2/workflows/hexlet-check/badge.svg)](https://github.com/Zeal22/backend-project-lvl2/actions)",
   "main": "index.js",
